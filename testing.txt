@@ -10,3 +10,4 @@ Let's check if we can move with branch to branch now in modified state:
 2) This is change line in check-1 branch.
 3) This is change line in check-2 branch
 Adding this line to make conflict.
+This line will be in conflict with main.
