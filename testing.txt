@@ -11,3 +11,4 @@ Let's check if we can move with branch to branch now in modified state:
 3) This is change line in check-2 branch
 Adding this line to make conflict.
 This line will be in conflict with main.
+Let's check if this change needs to be stashed or commited before changing branch.
